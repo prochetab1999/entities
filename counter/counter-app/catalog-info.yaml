@@ -4,5 +4,7 @@ kind: System
 metadata:
   name: counter-app
   description: Counter Application for managing counters
+  labels:
+    - category : finance
 spec:
   owner: group:guests
