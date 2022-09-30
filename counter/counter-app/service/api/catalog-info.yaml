@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: API
 metadata:
-  name: counter-api
+  name: counter-apis
   description: API for counter-service
   links:
    - url: http://localhost:8080/swagger-ui.html
