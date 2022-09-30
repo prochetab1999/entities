@@ -9,6 +9,8 @@ metadata:
   tags:
     - http
     - https
+  labels:
+    - category:finance
 spec:
   type: openapi
   lifecycle: production
