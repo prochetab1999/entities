@@ -10,7 +10,7 @@ metadata:
     - http
     - https
   labels:
-    - category:finance
+    - category: finance
 spec:
   type: openapi
   lifecycle: production
