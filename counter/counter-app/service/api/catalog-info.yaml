@@ -11,7 +11,8 @@ metadata:
     - https
   labels: 
     category : finance
-  etag: category  
+    classification : entertainment
+  etag: classification  
 spec:
   type: openapi
   lifecycle: production
