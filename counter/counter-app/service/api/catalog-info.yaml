@@ -1,6 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: API
 metadata:
+  title: counter-apis
   name: counter-apis
   description: API for counter-service
   links:
