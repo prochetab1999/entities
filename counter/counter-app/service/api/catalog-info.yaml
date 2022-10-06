@@ -12,7 +12,7 @@ metadata:
     - https
   labels: 
     category : finance
-    category : entertainment
+    categoricalclassification : entertainment
     classification : entertainment
   etag: category  
 spec:
