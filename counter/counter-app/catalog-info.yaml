@@ -4,5 +4,7 @@ kind: System
 metadata:
   name: counter-app
   description: Counter Application for managing counters
+annotations:
+    jenkins.io/github-folder: 'sample-job-2/'
 spec:
   owner: group:guests
