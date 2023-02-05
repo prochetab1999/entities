@@ -5,8 +5,8 @@ metadata:
   description: A simple counter service
   tags:
     - kotlin
-annotations:
-  jenkins.io/github-folder: sample-job-2/
+  annotations:
+    jenkins.io/github-folder: sample-job-2/
 spec:
   type: service
   lifecycle: experimental
