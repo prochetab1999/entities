@@ -5,6 +5,6 @@ metadata:
   name: counter-app
   description: Counter Application for managing counters
 annotations:
-    jenkins.io/github-folder: 'sample-job-2/'
+    jenkins.io/github-folder: 'Project:procheta1999/entities'
 spec:
   owner: group:guests
