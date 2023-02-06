@@ -6,7 +6,7 @@ metadata:
   tags:
     - kotlin
   annotations:
-    jenkins.io/github-folder: 'project:sample-job-3/entities'
+    jenkins.io/github-folder: 'github-proj/entities'
 spec:
   type: service
   lifecycle: experimental
