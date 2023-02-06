@@ -6,7 +6,7 @@ metadata:
   tags:
     - kotlin
   annotations:
-    jenkins.io/job-full-name: "Project:procheta1999/entities"
+    jenkins.io/job-full-name: "procheta1999/entities"
 spec:
   type: service
   lifecycle: experimental
