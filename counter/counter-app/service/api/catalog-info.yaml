@@ -20,6 +20,12 @@ metadata:
     classification5: entertainment
     classification6: entertainment
     classification7: entertainment
+    classification7: entertainment
+    classification8: entertainment
+    classification9: entertainment
+    classification10: entertainment
+    classification11: entertainment
+    classification12: entertainment
   etag: category
 spec:
   type: openapi
