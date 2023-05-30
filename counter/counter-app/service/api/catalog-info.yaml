@@ -6,7 +6,9 @@ metadata:
   description: APIs for counter-service
   links:
     - url: 'http://localhost:8080/swagger-ui.html'
-      title: Swagger UIfjhhdjfhsajkhJKHSJKAHFKJHASKHFKHSAKFHKJASHKFHJKASHFKJHIQOWURI3UI3UIURIO13UORUOWQUROUIWUROUWOREUIO3UOIRUIUROIW
+      title: >-
+        Swagger
+        UIfjhhdjfhsajkhJKHSJKAHFKJHASKHFKHSAKFHKJASHKFHJKASHFKJHIQOWURI3UI3UIURIO13UORUOWQUROUIWUROUWOREUIO3UOIRUIUROIW
   tags:
     - http
     - https
@@ -19,7 +21,6 @@ metadata:
     classification4: entertainment
     classification5: entertainment
     classification6: entertainment
-    classification7: entertainment
     classification7: entertainment
     classification8: entertainment
     classification9: entertainment
