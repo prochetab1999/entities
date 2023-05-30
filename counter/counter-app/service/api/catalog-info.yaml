@@ -5,26 +5,26 @@ metadata:
   name: counter-apis
   description: API for counter-service
   links:
-   - url: http://localhost:8080/swagger-ui.html
-     title: Swagger UI
+    - url: 'http://localhost:8080/swagger-ui.html'
+      title: Swagger UI
   tags:
     - http
     - https
-  labels: 
-    category : finance
-    categoricalclassification : entertainment
-    classification1 : entertainment
-    classification2 : entertainment
-    classification3 : entertainment
-    classification4 : entertainment
-    classification5 : entertainment
-    classification6 : entertainment
-    classification7 : entertainment
-  etag: category  
+  labels:
+    category: finance
+    categoricalclassification: entertainment
+    classification1: entertainment
+    classification2: entertainment
+    classification3: entertainment
+    classification4: entertainment
+    classification5: entertainment
+    classification6: entertainment
+    classification7: entertainment
+  etag: category
 spec:
   type: openapi
   lifecycle: production
-  owner: group:guests
+  owner: 'group:guests'
   system: counter-app
   definition: |
     openapi: 3.0.1
