@@ -13,13 +13,13 @@ metadata:
   labels: 
     category : finance
     categoricalclassification : entertainment
-    classification : entertainment
-    classification : entertainment
-    classification : entertainment
-    classification : entertainment
-    classification : entertainment
-    classification : entertainment
-    classification : entertainment
+    classification1 : entertainment
+    classification2 : entertainment
+    classification3 : entertainment
+    classification4 : entertainment
+    classification5 : entertainment
+    classification6 : entertainment
+    classification7 : entertainment
   etag: category  
 spec:
   type: openapi
